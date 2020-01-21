@@ -1,0 +1,15 @@
+{
+  "name": "excel-web-worker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "parcel ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "xlsx": "^0.15.4"
+  }
+}
